@@ -1,0 +1,16 @@
+{
+    "Librarian": [
+        {
+            "username": "user1",
+            "password": "abcd",
+            "name": "Mahdi",
+            "status": "active"
+        },
+        {
+            "username": "user2",
+            "password": "xyz",
+            "name": "Sadegh",
+            "status": "active"
+        }
+    ]
+}

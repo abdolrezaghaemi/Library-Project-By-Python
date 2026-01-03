@@ -1,0 +1,22 @@
+{
+    "Users": [
+        {
+            "username": "user1",
+            "name": "Hossein",
+            "password": "abcd",
+            "status": "active"
+        },
+        {
+            "username": "user2",
+            "name": "Mohammad",
+            "password": "xyz",
+            "status": "disabled"
+        },
+        {
+            "username": "userbrt",
+            "password": "jjsdf",
+            "name": "Mahdi",
+            "status": "active"
+        }
+    ]
+}
